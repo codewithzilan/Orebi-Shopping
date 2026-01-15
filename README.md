@@ -2,7 +2,7 @@
 
 Orebi E-Commerce is a modern, responsive e-commerce web application built using **React**, **Tailwind CSS**, and **Redux**. The project focuses on clean UI design, smooth user experience, and scalable state management for real-world shopping functionality.
 
-🔗 **Live Demo:** https://orebi-ecommerce-zeta.vercel.app
+🔗 **Live Demo:** https://orebi-shopping-phi.vercel.app/
 
 ---
 
